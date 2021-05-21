@@ -21,4 +21,6 @@ the project was created using multiple libraries such as jquery, bootstrap, and 
 
 ![scheduler](https://user-images.githubusercontent.com/79546270/119068794-b869ac00-b999-11eb-8b6b-4cf9e89ff7ce.JPG)-snapshot 
 
+https://frostquill.github.io/scheduler/ - link to page
+
 
